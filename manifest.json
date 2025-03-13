@@ -1,0 +1,14 @@
+{
+  "name": "Lethal_Breakroom_ModPack",
+  "description": "A mod pack for the Lethal Breakroom crew. Consists of quality of Life",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Phyore/Lethal-Breakroom-R.E.P.O-Modpack",
+  "dependencies": [
+    "mattymatty-AsyncLoggers-2.1.4",
+    "nickklmao-NoLimitChatbox-1.0.1",
+    "Rebateman-LateJoin-0.1.2",
+    "x753_REPO-CustomColors-1.1.0",
+    "Zehs-ExtractionPointConfirmButton-1.0.1",
+    "zelofi-MorePlayers-1.0.4"
+  ]
+}
