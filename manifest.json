@@ -4,6 +4,7 @@
   "version_number": "1.0.0",
   "website_url": "https://github.com/Phyore/Lethal-Breakroom-R.E.P.O-Modpack",
   "dependencies": [
+    "JacuJ-GnomedGnomeSounds-1.0.0",
     "mattymatty-AsyncLoggers-2.1.4",
     "nickklmao-NoLimitChatbox-1.0.1",
     "Rebateman-LateJoin-0.1.2",
