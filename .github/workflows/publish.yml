@@ -26,7 +26,7 @@ jobs:
           namespace: LethalBreakroom # the thunderstore 'team' to publish under
           name: Lethal_Breakroom_ModPack # the name of the package
           description: Publishes the Lethal Breakroom ModPack to Thunderstore
-          ersion: ${{ github.event.release.tag_name }}
+          version: ${{ github.event.release.tag_name }}
           community: repo
           categories: | # <-- notice this pipe character
             modpacks
