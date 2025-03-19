@@ -1,6 +1,6 @@
 name: Publish
 
-# Run when a new release is... released
+# Run when a new release is published
 on:
   release:
     types: [published]
@@ -9,27 +9,31 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      # Use checkout to publish the files in your repo
-      - name: Remove .github folder
-        run: rm -rf .github
-      - name: Fetch Sources
+      # Checkout the repository
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           ref: ${{ github.event.release.tag_name }}
           fetch-depth: 0
-          filter: tree:0
 
-      - uses: dhkatz/thunderstore-publish@v1
+      # Remove .github folder
+      - name: Remove .github folder
+        run: rm -rf .github
+
+      # Publish to Thunderstore
+      - name: Publish to Thunderstore
+        uses: dhkatz/thunderstore-publish@v1
         id: publish
         with:
           token: ${{ secrets.THUNDERSTORE_SERVICE_KEY }}
-          namespace: LethalBreakroom # the thunderstore 'team' to publish under
-          name: Lethal_Breakroom_ModPack # the name of the package
+          namespace: LethalBreakroom
+          name: Lethal_Breakroom_ModPack
           description: Publishes the Lethal Breakroom ModPack to Thunderstore
           version: ${{ github.event.release.tag_name }}
           community: repo
-          categories: | # <-- notice this pipe character
+          categories: |
             modpacks
 
+      # Output the URL of the published package
       - name: Output URL
         run: echo "Published Thunderstore package to ${{ steps.publish.outputs.url }}"
