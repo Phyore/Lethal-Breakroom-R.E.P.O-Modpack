@@ -3,7 +3,7 @@ name: Publish
 # Run when a new release is... released
 on:
   release:
-    types: [released]
+    types: [published]
 
 jobs:
   publish:
