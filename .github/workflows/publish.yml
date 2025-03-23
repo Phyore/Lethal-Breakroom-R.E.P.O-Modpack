@@ -21,4 +21,4 @@ jobs:
           version: ${{ github.ref_name }} # Use the tag as the package version
           community: repo
           categories: | # <-- notice this pipe character
-            modpack
+            modpacks
