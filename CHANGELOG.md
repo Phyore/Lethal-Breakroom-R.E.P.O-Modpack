@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.1.0
+
+- Dependencies updated to newer versions:
+  - **MoreHead**: Updated from `1.2.3` to `1.2.8`
+  - **MoreHeadPlus**: Updated from `0.1.8` to `0.3.0`
+  - **Mimic**: Updated from `1.0.4` to `1.0.5`
+  - **MoreUpgrades**: Updated from `1.2.2` to `1.3.3`
+
 ## 2.0.0
 
 ### Added Mods:
