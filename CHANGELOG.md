@@ -1,12 +1,32 @@
 # Changelog
 
+## [3.0.0]
+
+### Added Mods
+
+- **[ColtG5-LegoGnomes](https://thunderstore.io/package/ColtG5/LegoGnomes/)**
+- **[Hattorius-PostLevelSummary](https://thunderstore.io/package/Hattorius/PostLevelSummary/)**
+- **[nickklmao-FreecamSpectate](https://thunderstore.io/package/nickklmao/FreecamSpectate/)**
+
+### Updated Mods
+
+- **Mimic**: Updated from `1.0.4` to `1.1.1`
+- **MoreUpgrades**: Updated from `1.3.3` to `1.4.4`
+- **MoreHeadPlus**: Updated from `0.1.8` to `0.3.3`
+- **MoreHead**: Updated from `1.2.3` to `1.3.0`
+
+### Config Changes:
+
+- **Scaling Prices** - Multiplier applied to the base price of items from 4 to 5
+
 ## 2.1.0
 
-- Dependencies updated to newer versions:
-  - **MoreHead**: Updated from `1.2.3` to `1.2.8`
-  - **MoreHeadPlus**: Updated from `0.1.8` to `0.3.0`
-  - **Mimic**: Updated from `1.0.4` to `1.0.5`
-  - **MoreUpgrades**: Updated from `1.2.2` to `1.3.3`
+### Updated Mods
+
+- **MoreHead**: Updated from `1.2.3` to `1.2.8`
+- **MoreHeadPlus**: Updated from `0.1.8` to `0.3.0`
+- **Mimic**: Updated from `1.0.4` to `1.0.5`
+- **MoreUpgrades**: Updated from `1.2.2` to `1.3.3`
 
 ## 2.0.0
 
