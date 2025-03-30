@@ -1,5 +1,19 @@
 # Changelog
 
+## [3.1.0]
+
+### Updated Mods
+
+- **Mimic**: Updated from `1.1.1` to `1.1.2`
+- **MoreHead**: Updated from `1.3.0` to `1.3.1`
+- **MoreHeadPlus**: Updated from `0.3.3` to `1.0.0`
+- **PokeballValuables**: Updated from `1.1.1` to `1.1.3`
+- **MoreUpgrades**: Updated from `1.4.4` to `1.4.5`
+
+### Config Changes:
+
+- **Scaling Prices** - Multiplier applied to the base price of items from 4 to 5
+
 ## [3.0.0]
 
 ### Added Mods
