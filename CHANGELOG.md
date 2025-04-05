@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.2.0]
+
+### Updated Mods
+
+- **Mimic**: Updated from `1.1.2` to `1.1.5`
+- **MoreHead**: Updated from `1.3.1` to `1.3.4`
+- **MoreHeadPlus**: Updated from `0.3.8` to `1.1.1`
+
 ## [3.1.0]
 
 ### Updated Mods
@@ -20,6 +28,7 @@
 
 - **[ColtG5-LegoGnomes](https://thunderstore.io/package/ColtG5/LegoGnomes/)**
 - **[Hattorius-PostLevelSummary](https://thunderstore.io/package/Hattorius/PostLevelSummary/)**
+- **[JacuJ-GnomedGnomeSounds](https://thunderstore.io/package/JacuJ/GnomedGnomeSounds/)**
 - **[nickklmao-FreecamSpectate](https://thunderstore.io/package/nickklmao/FreecamSpectate/)**
 
 ### Updated Mods
