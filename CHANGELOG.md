@@ -1,5 +1,15 @@
 # Changelog
 
+## [3.3.0]
+
+### Updated Mods
+
+- **Mimic**: Updated from `1.1.5` to `1.1.6`
+- **MoreHead**: Updated from `1.3.4` to `1.3.8`
+- **MoreHeadPlus**: Updated from `1.1.1` to `1.3.2`
+- **CustomColors**: Updated from `1.1.0` to `1.1.1`
+- **LethalCompanyValuables**: Updated from `1.1.1` to `1.2.0`
+
 ## [3.2.0]
 
 ### Updated Mods
