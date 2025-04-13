@@ -1,5 +1,17 @@
 # Changelog
 
+## [4.0.0]
+
+### Added Mods
+
+- **[discjenny-CartSpeedSync](https://thunderstore.io/c/repo/p/discjenny/CartSpeedSync/)**
+- **[Enchanted_Games-CustomGrabColor-2.1.0](https://thunderstore.io/c/repo/p/Enchanted_Games/CustomGrabColor/)**
+- **[khalliv-ShoppingListHUD](https://thunderstore.io/c/repo/p/khalliv/ShoppingListHUD/)**
+
+### Removed Mods
+
+- **PostLevelSummary** - Causing desync issues and log spam
+
 ## [3.3.0]
 
 ### Updated Mods
