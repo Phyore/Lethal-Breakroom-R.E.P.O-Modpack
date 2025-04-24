@@ -69,10 +69,10 @@
 
 ### Added Mods
 
-- **[ColtG5-LegoGnomes](https://thunderstore.io/package/ColtG5/LegoGnomes/)**
-- **[Hattorius-PostLevelSummary](https://thunderstore.io/package/Hattorius/PostLevelSummary/)**
-- **[JacuJ-GnomedGnomeSounds](https://thunderstore.io/package/JacuJ/GnomedGnomeSounds/)**
-- **[nickklmao-FreecamSpectate](https://thunderstore.io/package/nickklmao/FreecamSpectate/)**
+- **[ColtG5-LegoGnomes](https://thunderstore.io/c/repo/p/ColtG5/LegoGnomes/)**
+- **[Hattorius-PostLevelSummary](https://thunderstore.io/c/repo/p/Hattorius/PostLevelSummary/)**
+- **[JacuJ-GnomedGnomeSounds](https://thunderstore.io/c/repo/p/JacuJ/GnomedGnomeSounds/)**
+- **[nickklmao-FreecamSpectate](https://thunderstore.io/c/repo/p/nickklmao/FreecamSpectate/)**
 
 ### Updated Mods
 
@@ -98,13 +98,13 @@
 
 ### Added Mods:
 
-- **[BULLETBOT-MoreUpgrades](https://thunderstore.io/package/BULLETBOT/MoreUpgrades/)**
-- **[YMC_MHZ-MoreHead](https://thunderstore.io/package/YMC_MHZ/MoreHead/)**, **[DEMMERS-EvenMoreHead](https://thunderstore.io/package/DEMMERS/EvenMoreHead/)**, **[RESET-MoreHeadPlus](https://thunderstore.io/package/RESET/MoreHeadPlus/)**
-- **[Disciple-Pokeball_Valuables](https://thunderstore.io/package/Disciple/Pokeball_Valuables/)**
-- **[eth9n-Mimic](https://thunderstore.io/package/eth9n/Mimic/)**
-- **[EvilCheetah-TeamUpgrades](https://thunderstore.io/package/EvilCheetah/TeamUpgrades/)**, **[EvilCheetah-ScalingPrices](https://thunderstore.io/package/EvilCheetah/ScalingPrices/)**
-- **[ToyDragon-TootFloot](https://thunderstore.io/package/ToyDragon/TootFloot/)**
-- **[Zehs-LethalCompanyValuables](https://thunderstore.io/package/Zehs/LethalCompanyValuables/)**
+- **[BULLETBOT-MoreUpgrades](https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/)**
+- **[YMC_MHZ-MoreHead](https://thunderstore.io/c/repo/p/YMC_MHZ/MoreHead/)**, **[DEMMERS-EvenMoreHead](https://thunderstore.io/c/repo/p/DEMMERS/EvenMoreHead/)**, **[RESET-MoreHeadPlus](https://thunderstore.io/c/repo/p/RESET/MoreHeadPlus/)**
+- **[Disciple-Pokeball_Valuables](https://thunderstore.io/c/repo/p/Disciple/Pokeball_Valuables/)**
+- **[eth9n-Mimic](https://thunderstore.io/c/repo/p/eth9n/Mimic/)**
+- **[EvilCheetah-TeamUpgrades](https://thunderstore.io/c/repo/p/EvilCheetah/TeamUpgrades/)**, **[EvilCheetah-ScalingPrices](https://thunderstore.io/c/repo/p/EvilCheetah/ScalingPrices/)**
+- **[ToyDragon-TootFloot](https://thunderstore.io/c/repo/p/ToyDragon/TootFloot/)**
+- **[Zehs-LethalCompanyValuables](https://thunderstore.io/c/repo/p/Zehs/LethalCompanyValuables/)**
 
 ### Config Changes:
 
@@ -114,9 +114,9 @@
 
 ### Added Mods:
 
-- **[mattymatty-AsyncLoggers](https://thunderstore.io/package/mattymatty/AsyncLoggers/)**
-- **[nickklmao-NoLimitChatbox](https://thunderstore.io/package/nickklmao/NoLimitChatbox/)**
-- **[Rebateman-LateJoin](https://thunderstore.io/package/Rebateman/LateJoin/)**
-- **[x753_REPO-CustomColors](https://thunderstore.io/package/x753_REPO/CustomColors/)**
-- **[Zehs-ExtractionPointConfirmButton](https://thunderstore.io/package/Zehs/ExtractionPointConfirmButton/)**
-- **[zelofi-MorePlayers](https://thunderstore.io/package/zelofi/MorePlayers/)**
+- **[mattymatty-AsyncLoggers](https://thunderstore.io/c/repo/p/mattymatty/AsyncLoggers/)**
+- **[nickklmao-NoLimitChatbox](https://thunderstore.io/c/repo/p/nickklmao/NoLimitChatbox/)**
+- **[Rebateman-LateJoin](https://thunderstore.io/c/repo/p/Rebateman/LateJoin/)**
+- **[x753_REPO-CustomColors](https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/)**
+- **[Zehs-ExtractionPointConfirmButton](https://thunderstore.io/c/repo/p/Zehs/ExtractionPointConfirmButton/)**
+- **[zelofi-MorePlayers](https://thunderstore.io/c/repo/p/zelofi/MorePlayers/)**
