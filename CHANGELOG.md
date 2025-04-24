@@ -1,5 +1,26 @@
 # Changelog
 
+## [5.0.0]
+
+### Added Mods
+
+- **[ArkanoidVFX-LovePotion_PhraseCustomizer](https://thunderstore.io/package/ArkanoidVFX/LovePotion_PhraseCustomizer/)**: Adds customizable phrases for Love Potion effects.
+- **[itsUndefined-Shop_Items_Spawn_in_Level](https://thunderstore.io/package/itsUndefined/Shop_Items_Spawn_in_Level/)**: Allows shop items to spawn in levels.
+- **[Lunoid-REPO_Alchemy](https://thunderstore.io/c/repo/p/Lunoid/REPO_Alchemy/)**: Adds alchemy mechanics to the game. See mod page for recipes.
+- **[Magic_Wesley-Wesleys_Enemies](https://thunderstore.io/package/Magic_Wesley/Wesleys_Enemies/)**: Introduces new enemy types.
+- **[Magic_Wesley-Wesleys_Valuables](https://thunderstore.io/package/Magic_Wesley/Wesleys_Valuables/)**: Adds new valuable items.
+- **[Yuckers-Unique_Potions](https://thunderstore.io/package/Yuckers/Unique_Potions/)**: Adds unique potions with special effects.
+
+### Updated Mods
+
+- **MoreUpgrades**: Updated from `1.4.5` to `1.4.8`
+- **Mimic**: Updated from `1.1.6` to `1.1.11`
+- **MoreHead**: Updated from `1.3.8` to `1.3.11`
+- **MoreHeadPlus**: Updated from `1.3.2` to `1.8.5`
+- **CustomColors**: Updated from `1.1.0` to `1.1.1`
+- **LethalCompanyValuables**: Updated from `1.2.0` to `1.2.1`
+- **ExtractionPointConfirmButton**: Updated from `1.0.1` to `1.1.0`
+
 ## [4.0.0]
 
 ### Added Mods
