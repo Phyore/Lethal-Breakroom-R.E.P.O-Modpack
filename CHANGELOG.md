@@ -1,5 +1,18 @@
 # Changelog
 
+## [6.0.0]
+
+### Added Mods
+
+- **[Magic_Wesley-Wesleys_Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)**: Adds a new level: The Bunker
+
+### Updated Mods
+
+- **Magic_Wesley-Wesleys_Enemies**: Updated from `1.1.9` to `1.2.2`
+- **Magic_Wesley-Wesleys_Valuables**: Updated from `1.0.2` to `1.0.3`
+- **MoreHeadPlus**: Updated from `1.8.5` to `1.9.6`
+- **MoreHead**: Updated from `1.3.11` to `1.4.0`
+
 ## [5.0.0]
 
 ### Added Mods
