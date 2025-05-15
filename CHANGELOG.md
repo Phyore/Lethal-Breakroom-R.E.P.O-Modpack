@@ -1,5 +1,26 @@
 # Changelog
 
+## [7.0.0]
+
+### Added Mods
+
+- **[Dumbapple-MonsterPlushies](https://thunderstore.io/c/repo/p/Dumbapple/MonsterPlushies/)**: Adds plushies based on enemies from the game.
+- **[flipf17-OpenExtractionWithCart](https://thunderstore.io/c/repo/p/flipf17/OpenExtractionWithCart/)**: Allows opening extraction zones by pushing the cart into the button! Because we're lazy.
+- **[Nikki-AbioticFactorValuables](https://thunderstore.io/c/repo/p/Nikki/AbioticFactorValuables/)**: Adds Abiotic Factor items as valuables.
+- **[Spindles-MorePlayersImproved](https://thunderstore.io/c/repo/p/Spindles/MorePlayersImproved/)**: Enhances player limit and performance.
+
+### Updated Mods
+
+- **Magic_Wesley-Wesleys_Levels**: Updated from `1.0.2` to `1.0.6`
+- **Lunoid-REPO_Alchemy**: Updated from `1.1.0` to `1.1.3`
+- **Magic_Wesley-Wesleys_Enemies**: Updated from `1.2.2` to `1.3.1`
+- **MoreHeadPlus**: Updated from `1.9.6` to `1.9.6` (no version change, but included for clarity)
+- **MoreHead**: Updated from `1.4.0` to `1.4.1`
+
+### Removed Mods
+
+- **zelofi-MorePlayers** - No longer supported.
+
 ## [6.0.0]
 
 ### Added Mods
