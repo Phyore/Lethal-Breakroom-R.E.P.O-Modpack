@@ -1,5 +1,14 @@
 # Changelog
 
+## [7.1.0]
+
+### Updated Mods
+
+- **Lunoid-REPO_Alchemy**: Updated from `1.1.1` to `1.1.3`
+- **Magic_Wesley-Wesleys_Levels**: Updated from `1.0.6` to `1.1.4`
+- **Magic_Wesley-Wesleys_Enemies**: Updated from `1.3.1` to `1.3.3`
+- **Dumbapple-MonsterPlushies**: Updated from `1.6.0` to `1.7.1`
+
 ## [7.0.0]
 
 ### Added Mods
